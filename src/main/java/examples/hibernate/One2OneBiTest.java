@@ -7,7 +7,7 @@ import org.hibernate.Session;
 import examples.hibernate.model.Stock;
 import examples.hibernate.model.StockDescription;
 
-public class StockOne2OneBiTest 
+public class One2OneBiTest 
 {
 	static Session session = null;
 	static org.hibernate.Transaction tx =  null;
